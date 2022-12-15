@@ -1,10 +1,9 @@
-
 body{
-  background-color:#FFE1C6;
+  background-color:#D8DCFF;
 }
 h2{
   color:#DC6ACF;
-  font-size:400%;
+  font-size:450%;
   letter-spacing:10px;
   text-decorating: underline;
 }
@@ -35,4 +34,3 @@ li a{
 li a:hover{
   color:#FFFFFF;
 }
-
