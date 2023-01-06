@@ -1,0 +1,28 @@
+body{
+  background-color:#ADE0DF;
+}
+h2{
+  color:#4B8895;
+  font-size:600%;
+  letter-spacing:5px;
+}
+p{
+  color:#4B8895;
+  font-size:300%;
+}
+ul {
+  list-style-type: none;
+  position: fixed;
+  width: 200%;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 40px;
+  color:#4B8895;
+  text-decoration-line: none;
+}
+li a:hover{
+  color:#FFFFFF;
+}
